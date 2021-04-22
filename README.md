@@ -1,6 +1,6 @@
 # MoTrPAC-Pass1B
 
-Template for processing MoTrPAC data internally. The directory structure is loosely based on the [MoTrPAC Proteomics PNNL Prototype](https://github.com/MoTrPAC/motrpac-proteomics-pnnl-prototype) (MPPNNLP).
+Template for processing MoTrPAC data internally. The directory structure is loosely based on the [MoTrPAC Proteomics PNNL Prototype](https://github.com/MoTrPAC/motrpac-proteomics-pnnl-prototype).
 
 # Installation
 
