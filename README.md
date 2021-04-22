@@ -26,8 +26,8 @@ The pipeline consists of two scripts: one for global proteomics, and another for
 The pipeline can be called from the command line with two arguments (three for PTM data):
 
 - `-d`: data package number
-- `-o`: output folder
-- `-g`: path to global results ratio table (PTM only)
+- `-o`: path to output folder
+- `-g`: path to global results ratio `.txt` file (PTM pipeline only)
 
 ```
 Rscript process_global_data.R -d 3606 -o data/test_data_global &
